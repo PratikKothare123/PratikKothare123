@@ -7,12 +7,13 @@
 
 ---
 
-## 🚀 About Me
-- 🎓 B.Tech in Computer Science & Engineering  
-- 💻 Completed **MERN Stack Development**
-- 🌐 Build **responsive & scalable web applications**
-- 🧠 Strong knowledge of **Computer Fundamentals**
-- 🎯 Goal: Software Developer Role
+## 👨‍💻 About Me
+- 🔭 I’m currently working on **MERN Stack real-world projects**
+- 👯 I’m looking to collaborate on **Web Development & Open Source**
+- 🤝 I’m looking for help with **Advanced Backend & System Design**
+- 🌱 I’m currently learning **Node.js, Express.js, MongoDB & DSA**
+- 💬 Ask me about **MERN Stack, JavaScript, Computer Fundamentals**
+- ⚡ Fun fact: **I code daily and love building responsive UIs**
 
 ---
 
@@ -23,8 +24,7 @@
 
 ---
 
-## 📊 GitHub Contribution Dashboard
-
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pratik-kothare&show_icons=true&theme=tokyonight" />
 </p>
@@ -39,33 +39,26 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## 🌐 Connect With Me
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pratik-kothare&theme=onedark&no-frame=true&row=1" />
-</p>
-
----
-
-## 📌 Featured Projects
-- 🔹 MERN Authentication System
-- 🔹 Responsive Portfolio Website
-- 🔹 Admin Dashboard
-- 🔹 CRUD Web App
-- 🔹 JavaScript Mini Projects
-
-➡️ Check repositories for source code & live demos
-
----
-
-## 🤝 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" />
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/pratik-kothare">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
   </a>
   <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/YOUR-LEETCODE">
+    <img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white" />
   </a>
 </p>
+
+---
+
+## 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/pratik-kothare/pratik-kothare/output/github-contribution-grid-snake.svg)
 
 ---
 
