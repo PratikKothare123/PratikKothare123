@@ -14,15 +14,44 @@
 </p>
 
 ---
+```java
+public class PratikKothare123 {
 
-## 👨‍💻 About Me
+    String name       = "Pratik Kothare";
+    String role       = "Full Stack Developer | MERN Stack Enthusiast";
+    String education  = "Final Year B.Tech CSE Student";
+    String location   = "Nagpur, Maharashtra, India 🇮🇳";
 
-- 🔭 Working on **MERN Stack real-world projects**
-- 🤝 Open to collaborate on **Web Development & Open Source**
-- 🧠 Learning **Backend, System Design & DSA**
-- 💬 Ask me about **React, Node, JavaScript**
-- ⚡ Fun fact: *I code daily and love clean UI*
+    String[] skills = {
+        "Java", "JavaScript", "React.js",
+        "Node.js", "Express.js", "MongoDB",
+        "Python", "Git", "REST APIs"
+    };
 
+    String[] projects = {
+        "StayFinder",
+        "SmartAttend AI",
+        "Faculty Research Dashboard"
+    };
+
+    String[] learning = {
+        "Cyber Security",
+        "Data Structures & Algorithms",
+        "AI Integration",
+        "Cloud Technologies"
+    };
+
+    String goal = "Build scalable web applications and AI-powered solutions";
+
+    String status = "Open to Internships & Software Developer Opportunities 🟢";
+
+    void greet() {
+        System.out.println("Hey there! Thanks for visiting my profile 👋");
+        System.out.println("I love turning ideas into real-world projects 🚀");
+        System.out.println("Currently building MERN applications, exploring Backend Development, and learning AI.");
+    }
+}
+```
 ---
 
 ## 🔗 Connect With Me
